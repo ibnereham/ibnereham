@@ -1,5 +1,5 @@
 <h1 align="center">Hello world; I'm Ibne Arif All Riham</h1>
-<h3 align="center">A passionate backend</h3>
+<h3 align="center">A passionate backend dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnereham&label=Profile%20views&color=0e75b6&style=flat" alt="ibnereham" /> </p>
 
