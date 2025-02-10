@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnereham&label=Profile%20views&color=0e75b6&style=flat" alt="ibnereham" /> </p>
 
-- 🔭 I’m currently working on [Aureoles Bot](<Not Uploaded to github>)
+- 🔭 I’m currently working on [Aureoles Bot](https://github.com/ibnereham/AureolesBot)
 
-- 🌱 I’m currently learning **React, Flutter**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **riham.tangail@gmail.com**
-
-- ⚡ Fun fact **I am also known as Naextro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
