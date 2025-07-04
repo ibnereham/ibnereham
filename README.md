@@ -1,7 +1,7 @@
 # Ibne Arif Al Riham
 
 ## About
-- Currently working on [Aureoles Bot](https://github.com/naextro/AureolesBot)
+- Currently working at [RS22Studios](https://rs22studios.com/)
 - Learning React
 - Prefers Python
 - Contact: riham.tangail@gmail.com
