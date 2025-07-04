@@ -20,5 +20,3 @@
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Tools**: PowerShell, Bash, Vercel
 - **Design**: Photoshop, Canva, After Effects
-- **AI/ML**: TensorFlow
-
