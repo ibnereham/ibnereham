@@ -20,3 +20,6 @@
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Tools**: PowerShell, Bash, Vercel
 - **Design**: Photoshop, Canva, After Effects
+
+
+### If you see any public API key here; It's Definitely broken(Definitely no openai key is published here);
